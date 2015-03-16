@@ -1,6 +1,6 @@
 {
-	"name" : "testDlang",
-	"description" : "Hello World - A minimal DUB bundle.",
+	"name" : "euler_in_d",
+	"description" : "project euler problems solved in d",
 	"dependencies" : {
 	},
 	"buildOptions": ["unittests"]
