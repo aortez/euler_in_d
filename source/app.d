@@ -7,12 +7,13 @@ import problems.problem2;
 import problems.problem3;
 import problems.problem4;
 import problems.problem5;
+import problems.problem6;
 
 void main() 
 {
 	auto startTime = Clock.currTime();
 
-	problem5();
+	problem6();
 
 	auto endTime = Clock.currTime();
 	auto deltaT = endTime - startTime;

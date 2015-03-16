@@ -15,7 +15,7 @@ bool isPalandrome( const int num )
 
 unittest
 {
-	writeln("running test");
+	writeln("test isPalandrome");
 	assert(isPalandrome(1) == true);
 	assert(isPalandrome(11) == true);
 	assert(isPalandrome(12) == false);
